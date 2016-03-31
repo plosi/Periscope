@@ -8,6 +8,7 @@ while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2> /dev/null &
 source "homebrew/install.sh"
 source "system/install.sh"
 source "zsh/install.sh"
+source "spacemacs/install.sh"
 
 # Personalize Git Configuration
 ln -fs "$PWD/.gitconfig" ~/.gitconfig

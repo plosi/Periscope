@@ -2,30 +2,28 @@
 
 # Install Application Binaries
 echo "Installing Casks ..."
+
+
 apps=(
     alfred
-    bartender
     cleanmymac
-    codekit
     dropbox
     endurance
+    emacs-mac
     flux
     gfxcardstatus
     google-drive
-    hyperswitch
     imageoptim
     istat-menus
-    kaleidoscope
     launchrocket
-    league-of-legends
     qlcolorcode
     qlmarkdown
     qlstephen
-    skype
     steam
-    sublime-text3
-    tower
     transmission
     vlc
 )
+
+brew tap railwaycat/homebrew-emacsmacport
 brew cask install "${apps[@]}"
+brew link apps

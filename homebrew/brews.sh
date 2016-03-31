@@ -4,11 +4,9 @@
 echo "Installing Brews ..."
 binaries=(
     ccat
-    fish
     flac
     grc
     node
-    pypy
     python
     python3
     git

@@ -1,4 +1,4 @@
-# [Periscope]
+# [Periscope](https://github.com/plosi/Periscope)
 
 ## Summary
 Periscope is based on [Polytonic's Periwinkle](https://github.com/Polytonic/Periwinkle), modified for my own needs. The original license is reproduced below.

@@ -7,9 +7,9 @@ apps=(
     dropbox
     emacs-mac
     flux
+    conda
     gfxcardstatus
     google-drive
-    launchrocket
     qlcolorcode
     qlmarkdown
     qlstephen

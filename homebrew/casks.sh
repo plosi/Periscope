@@ -3,18 +3,12 @@
 # Install Application Binaries
 echo "Installing Casks ..."
 
-
 apps=(
-    alfred
-    cleanmymac
     dropbox
-    endurance
     emacs-mac
     flux
     gfxcardstatus
     google-drive
-    imageoptim
-    istat-menus
     launchrocket
     qlcolorcode
     qlmarkdown

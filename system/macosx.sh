@@ -3,8 +3,8 @@
 # Install Software Updates
 softwareupdate -ia
 
-# Enable the Power Chime
-defaults write com.apple.PowerChime ChimeOnAllHardware -bool true
+# Disable the Power Chime
+defaults write com.apple.PowerChime ChimeOnAllHardware -bool false
 open /System/Library/CoreServices/PowerChime.app &
 
 # System Configuration

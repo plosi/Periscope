@@ -4,15 +4,9 @@
 echo "Installing Casks ..."
 
 apps=(
-    dropbox
     emacs-mac
     flux
     conda
-    gfxcardstatus
-    google-drive
-    qlcolorcode
-    qlmarkdown
-    qlstephen
     steam
     transmission
     vlc

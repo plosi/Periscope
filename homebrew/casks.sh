@@ -4,8 +4,13 @@
 echo "Installing Casks ..."
 
 apps=(
+    iterm2
     emacs-mac
     flux
+    firefox
+    chrome
+    spectacle
+    audacity
     conda
     steam
     transmission
